@@ -105,6 +105,7 @@ body {
     border: none;
     padding: 10px 30px;
     width: 50%;
+	color: white;
 }
 
 .search-container > input:focus {
